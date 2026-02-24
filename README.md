@@ -1,46 +1,33 @@
-<div style="
-  background:#0d1117;
-  padding:20px;
-  border-radius:10px;
-  font-family:monospace;
-  color:#c9d1d9;
-  white-space:pre-line;
-">
-<span id="terminal"></span><span id="cursor">▌</span>
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=JetBrains+Mono
+    &size=34
+    &duration=2000
+    &pause=1000
+    &color=00BFFF
+    &background=00000000
+    &vCenter=true
+    &width=600
+    &lines=$+whoami" />
+</p>
 
-<script>
-const lines = [
-  "subhash@subu:~$ whoami",
-  "Subhash",
-  "",
-  "Penetration testing student with an offensive mindset.",
-  "I analyze systems by probing, breaking, and tracing failure paths across networks and applications.",
-  "",
-  "My work revolves around reconnaissance, OSINT, vulnerability discovery, and exploit reasoning — tested in controlled lab environments.",
-  "I focus on how systems fail under real conditions, not how tools claim they should work."
-];
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=JetBrains+Mono
+    &size=32
+    &duration=2500
+    &pause=2000
+    &color=00BFFF
+    &background=00000000
+    &vCenter=true
+    &width=600
+    &lines=L-sub-hash" />
+</p>
 
-let lineIndex = 0;
-let charIndex = 0;
-const speed = 35;
+Penetration testing student with an offensive mindset.  
+I analyze systems by probing, breaking, and tracing failure paths across networks and applications.
 
-function type() {
-  const terminal = document.getElementById("terminal");
+My work revolves around reconnaissance, OSINT, and vulnerability discovery — tested in controlled lab environments.  
+I focus on how systems fail under real conditions, not how tools claim they should work.
 
-  if (lineIndex < lines.length) {
-    if (charIndex < lines[lineIndex].length) {
-      terminal.textContent += lines[lineIndex].charAt(charIndex);
-      charIndex++;
-      setTimeout(type, speed);
-    } else {
-      terminal.textContent += "\n";
-      lineIndex++;
-      charIndex = 0;
-      setTimeout(type, 400);
-    }
-  }
-}
-
-type();
-</script>
+Curiosity-driven. Failure-focused. Attacker-minded.
