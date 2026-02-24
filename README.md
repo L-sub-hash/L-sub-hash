@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2200&pause=1200&color=00BFFF&background=00000000&width=650&lines=$+whoami;L-sub-hash" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2200&pause=1200&color=00BFFF&background=00000000&width=650&lines=$+whoami;Lingam-Subhash" />
 </p>
 
 Penetration testing student with an offensive mindset.  
