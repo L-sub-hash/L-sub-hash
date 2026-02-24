@@ -62,8 +62,8 @@ Focused on ethical hacking, OSINT, and building practical security tools.
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link-here
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: www.linkedin.com/in/subhash-pavan-17a9722b1
+- 📧 Email: subhashpavankumarlvvsm@gmail.com
 
 ---
 
